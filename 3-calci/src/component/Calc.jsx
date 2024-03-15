@@ -1,0 +1,19 @@
+
+// create separate functions
+
+const add = (x,y) => {
+    return x + y;
+}
+
+const sub = (x,y) => {
+    return x-y
+}
+
+const mult = (x,y) => {
+    return x * y;
+}
+
+const division = (x,y) => {
+    return x/y;
+}
+export {add,sub,mult,division};
