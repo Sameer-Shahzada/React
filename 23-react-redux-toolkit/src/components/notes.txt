@@ -1,0 +1,15 @@
+To install styled-components
+    - npm install styled-components
+
+To install Redux Toolkit 
+    - npm install @reduxjs/Toolkit
+
+Official React bindings for Redux 
+    - npm install react-redux 
+
+To install react-icons library
+    - npm install react-icons
+
+For realistick fake data - Install Chancejs package
+    -npm install chance
+
